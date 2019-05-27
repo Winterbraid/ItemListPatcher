@@ -1,0 +1,14 @@
+./Item.cs
+./Names.cs
+./ParameterConverter.cs
+./Parameters/Attack.cs
+./Parameters/Byte.cs
+./Parameters/Defense.cs
+./Parameters/Impact.cs
+./Parameters/Integer16.cs
+./Parameters/Integer32.cs
+./Parameters/Parameter.cs
+./Parameters/SignedByte.cs
+./Parameters/Single.cs
+./ParameterSet.cs
+./Program.cs
